@@ -1,17 +1,16 @@
-div {
- 
-}
 
 body {
   background-color: lightblue;
- border-radius: 5px;
+border-radius: 33px 33px 33px 33px;
+ -moz-border-radius: 33px 33px 33px 33px;
+ -webkit-border-radius: 33px 33px 33px 33px;
+ border: 0px solid #000000;
 }
-h1 {
+h1 { 
+ font-family: Copperplate Gothic Bold;
   font-size: 40px;
-  font-family: Copperplate Gothic Bold;
 }
-    
- h2 {
+h2 {
    font-family: Copperplate Gothic Bold;
    font-size: 30px;
 }
