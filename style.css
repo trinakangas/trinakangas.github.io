@@ -1,9 +1,5 @@
 body {
 background-color: lightblue;
-  margin-left: 5px;
-  margin-right: 5px;
-  margin-top: 10px;
-  margin-bottom: 15px;    
 }
 
 h1 {
@@ -23,5 +19,5 @@ h3 {
 
 h4 {
   font-family: Copperplate Gothic Bold;
-  font-size: 25px;
+  font-size: 35px;
 }
