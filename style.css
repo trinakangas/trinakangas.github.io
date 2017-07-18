@@ -1,5 +1,9 @@
 body {
 background-color: lightblue;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: 10px;
+  margin-bottom: 15px;    
 }
 
 h1 {
