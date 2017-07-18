@@ -1,6 +1,3 @@
-div {
-  border-radius: 5px;
-}
 
 body {
   background-color: lightblue;
@@ -23,24 +20,6 @@ h4 {
   font-family: Copperplate Gothic Bold;
   font-size: 20px;
 }
-
-.left {
-  position: relative;
-  margin-top: 10px;
-  width: 5%;
-  height: 400 px;
-  background-color: white;
-  margin-bottom: 10px;
-}
-.right {  
-  position: relative;  
-  margin-top: 10px; 
-  width: 5%;
-  height: 400 px;
-  background-color: white;
-  margin-bottom: 10px;
-}
-  
   
   
   
