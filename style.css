@@ -1,7 +1,9 @@
 body {
 background-color: lightblue;
 }
-
+div {
+  border-radius: 10px
+}
 h1 {
   font-size: 65px;
   font-family: Copperplate Gothic Bold;
