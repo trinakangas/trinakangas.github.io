@@ -6,7 +6,10 @@ div {
 }
 body {
   background-color: lightblue;
- border-radius: 10px;
+ padding-top: 10px;
+ padding-left: 10px;
+  padding-right: 10px;
+ padding-bottom: 10px;
 }
 h1 {
   font-size: 50px;
