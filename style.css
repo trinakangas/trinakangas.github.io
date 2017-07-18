@@ -1,4 +1,5 @@
-
+.boxed {
+  border: 5px white;
 body {
   background-color: lightblue;
 }
