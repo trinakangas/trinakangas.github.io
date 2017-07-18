@@ -1,8 +1,8 @@
-body {
-background-color: lightblue;
-}
 div {
   border-radius: 10px
+}
+body {
+  background-color: lightblue;
 }
 h1 {
   font-size: 65px;
