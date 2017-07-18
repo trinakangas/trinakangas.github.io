@@ -5,10 +5,7 @@ div {
 
 body {
   background-color: lightblue;
- padding-top: 10px;
- padding-left: 10px;
-  padding-right: 50px;
- padding-bottom: 10px;
+ border-radius: 5px;
 }
 h1 {
   font-size: 40px;
